@@ -6,7 +6,7 @@ int main() {
     scanf("%f", &a);
     printf("Enter second number: ");
     scanf("%f", &b);
-    result = a / b
+    result = a / b;
     printf("Division = %.2f", result);
     return 0;
 }
