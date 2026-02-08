@@ -5,3 +5,4 @@
 "Day-4"- I learnt the basic program to perform multiplication between two numbers by reading the input from the user in both the Python and C programming language.
 "Day-5"- I learnt the basic program to perform Division between two numbers . I performed this program in both the Python and C language.
 "Day-6"- I learnt the basic program to find wheather the number are odd or even.
+"Day-7"- I learnt the basic program to find the greatest value of three numbers in both python and C language.
