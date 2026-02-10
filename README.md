@@ -6,3 +6,4 @@
 "Day-5"- I learnt the basic program to perform Division between two numbers . I performed this program in both the Python and C language.
 "Day-6"- I learnt the basic program to find wheather the number are odd or even.
 "Day-7"- I learnt the basic program to find the greatest value of three numbers in both python and C language.
+"Day-8"- I learnt the basic program used to calculate the average of three numbers in both python and C language.
